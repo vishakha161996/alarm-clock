@@ -10,7 +10,7 @@ Set multiple alarms with custom time and description
 Receive visual and audio notifications when the alarm goes off
 Delete alarms that are no longer needed
 
-# Technologies Used
+# Technology Used
 HTML
 CSS
 JavaScript
