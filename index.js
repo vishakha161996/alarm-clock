@@ -109,8 +109,8 @@ function convertToTime(hour, minute, second, amPm) {
 function setAlarm(time, fetching = false) {
   const alarm = setInterval(() => {
     if (time === getCurrentTime()) {
-       alert("Alarm Ringing");
       ringTone.play();
+      alert("Alarm Ringing");
 
     }
 document.querySelector("#stopAlarm").addEventListener("click", stopAlarm);
