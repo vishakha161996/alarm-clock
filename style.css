@@ -1,8 +1,9 @@
 /*  GLobal Styles */
-body {margin:0;}
+body {margin:0;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
 background-image: url(media/clock.png);
+}
 * {
     margin: 0;
     padding: 0;
